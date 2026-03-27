@@ -79,7 +79,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/blogspace.git
+git clone https://github.com/LokeshAntil28/blogspace.git
 cd blogspace
 ```
 
@@ -131,7 +131,7 @@ This is a frontend demo. To extend with a full-stack backend:
 
 1. Push to GitHub
 2. Repo → **Settings** → **Pages** → Source: **main / root**
-3. Live at: `https://YOUR_USERNAME.github.io/blogspace`
+3. Live at: `https://LokeshAntil28.github.io/blogspace`
 
 ---
 
@@ -144,4 +144,4 @@ This is a frontend demo. To extend with a full-stack backend:
 ## 👨‍💻 Author
 
 **Lokesh Kumar** · Sonipat, Haryana, India
-📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 17mr.antil@gmail.com · 🐙 [GitHub](https://github.com/LokeshAntil28)
